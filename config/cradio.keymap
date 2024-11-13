@@ -76,7 +76,7 @@
     &kp PRINTSCREEN   &kp SLCK   &trans     &trans     &trans         &kp TAB    &kp LEFT  &kp DOWN   &kp RIGHT  &kp ENTER
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│ CAPS     │MEDIA STOP│ PREV     │ NEXT     │ PLAY     │   │ PG DOWN  │          │          │          │ INSERT   │
-           &kp CAPS  &kp C_STOP  &kp C_PREV &kp C_NEXT  &C_PP         &kp PG_DN   &trans     &trans     &trans     &kp INS
+          &kp CAPS  &kp C_STOP  &kp C_PREV &kp C_NEXT  &kp C_PP       &kp PG_DN   &trans     &trans     &trans     &kp INS
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
                                              &trans     &trans         &trans     &trans
         //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
